@@ -1,6 +1,7 @@
 https://github.com/oleg-shilo/codemap.vscode
 
 rules for .vue files (settings.json):
+(based on ESLint/Prettier formatting, where function is on 4-spaces indentation)
 
   "codemap.vue": [
     {
